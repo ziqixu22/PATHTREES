@@ -1,6 +1,6 @@
 # PATHTREES Reference Implementation
 
-> **Attribution note:** This repository is retained as reference material used during the `IGL_mathDeepStructure` research project. PATHTREES is **not presented here as my original standalone software project**.
+> **Attribution note:** This repository is retained as reference material used during the `math-deep-structure-research` project. PATHTREES is **not presented here as my original standalone software project**.
 
 The code and documentation in this repository were used to study computational approaches for constructing, visualizing, and exploring continuous tree landscapes in Billera-Holmes-Vogtmann (BHV) tree space.
 
@@ -12,7 +12,7 @@ Within the broader Math Department Deep Structure research project, PATHTREES se
 
 Main research repository:
 
-- [IGL Math Deep Structure Research](https://github.com/ziqixu22/IGL_mathDeepStructure)
+- [Math Deep Structure Research](https://github.com/ziqixu22/math-deep-structure-research)
 
 ## Reference Functionality
 
@@ -34,4 +34,4 @@ PATHTREES supports tasks such as:
 
 ## Important Note
 
-This repository should be interpreted as **supporting/reference material**, not as an independently authored portfolio project. For my own research contributions, please see the linked IGL research repository above.
+This repository should be interpreted as **supporting/reference material**, not as an independently authored portfolio project. For my own research contributions, please see the linked Math Deep Structure research repository above.
